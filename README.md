@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/neuralakarshit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neuralakarshit) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neuralakarshit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neuralakarshit) 
 
 # 💻 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
