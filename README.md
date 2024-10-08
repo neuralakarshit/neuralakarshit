@@ -9,8 +9,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-)](https://linkedin.com/in/neuralakarshit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neuralakarshit) 
+[![LinkedIn]<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+](https://linkedin.com/in/neuralakarshit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neuralakarshit) 
 
 # 💻 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
