@@ -1,7 +1,7 @@
 
 ![github-header-image (2)](https://github.com/user-attachments/assets/1085e9ce-be5a-4ed5-b036-5cc412d35e99)
 
- 🔭 Hi! I'm passionate about using data to solve complex problems. I want to not just understand data but also create new AI solutions. I specialize in building machine learning models, developing data pipelines, and deploying scalable AI systems. My expertise spans NLP, working with large language models (LLMs), and deep learning (TensorFlow, Keras). I’m also skilled in MLOps, ensuring seamless deployment and monitoring of models through CI/CD pipelines.<br>And I'm curious about quantum computing because I believe it can change how we solve big problems.<br>
+ 🔭 Hi ! I'm passionate about using data to solve complex problems. I want to not just understand data but also create new AI solutions. I specialize in building machine learning models, developing data pipelines, and deploying scalable AI systems. My expertise spans NLP, working with large language models (LLMs), and deep learning (TensorFlow, Keras). I’m also skilled in MLOps, ensuring seamless deployment and monitoring of models through CI/CD pipelines.<br>And I'm curious about quantum computing because I believe it can change how we solve big problems.<br>
  <div align="center" width="50">
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 
