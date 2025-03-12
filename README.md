@@ -1,5 +1,4 @@
 
-![github-header-image (2)](https://github.com/user-attachments/assets/5f3adbde-7c5a-4aad-9e45-f8e4ac63c934)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Akarshit</h1>
 
