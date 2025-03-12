@@ -55,7 +55,10 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 
 ### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br/>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=neuralakarshit&limit=5&theme=transparent&combine_all_yearly_contributions=true)
