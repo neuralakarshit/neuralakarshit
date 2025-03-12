@@ -23,7 +23,6 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 ## 🌐 Socials:
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center">
   <a href="https://github.com/neuralakarshit">
@@ -53,7 +52,7 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 # 📊 GitHub Stats:
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=neuralakarshit&theme=white&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
@@ -67,7 +66,7 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 ### ✍️ 
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&random=<random_number>)<br/>
 
 
@@ -78,5 +77,5 @@ And I'm curious about quantum computing because I believe it can change how we s
 ### 🔝 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neuralakarshit&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
