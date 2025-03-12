@@ -55,8 +55,9 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 
 ### ✍️ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&random=<random_number>)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br/>
+
 
 
 
