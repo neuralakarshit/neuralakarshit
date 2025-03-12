@@ -20,7 +20,7 @@ And I'm curious about quantum computing because I believe it can change how we s
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://github.com/AkarshitSrivastava">
+  <a href="https://github.com/neuralakarshit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <span>&nbsp;&nbsp;</span> <!-- Add spacing -->
