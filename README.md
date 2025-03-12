@@ -77,6 +77,10 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 ### 🔝 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neuralakarshit&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neuralakarshit&theme=react&bg_color=000000&hide_border=true" width="100%"/>
+
+
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
