@@ -1,6 +1,13 @@
 
 ![github-header-image (2)](https://github.com/user-attachments/assets/5f3adbde-7c5a-4aad-9e45-f8e4ac63c934)
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Akarshit</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%26+ML+Researcher;Building+Scalable+AI+Systems;Expertise+in+LLMs%2C+NLP+%26+Machine+Learning;Exploring+Quant+Finance+%26+Algo+Trading;Always+learning+new+things&center=true&width=480&height=45">
+</p>
+
+
 
  🔭Hi, I’m Akarshit ! I focus on using data to solve complex problems.I want to not just understand data but also create new AI solutions.I specialize in building machine learning models, developing data pipelines, and deploying scalable AI systems.My expertise spans NLP, working with large language models (LLMs), deep learning (TensorFlow, Keras) and generative AI models including agents.I’m also skilled in MLOps, ensuring seamless deployment and monitoring of models through CI/CD pipelines.
 I’m actively exploring quantitative finance, focusing on developing data-driven models and strategies for financial markets and algorithmic trading. I apply mathematical models, statistical analysis, and programming techniques to optimize trading decisions.
@@ -12,8 +19,25 @@ And I'm curious about quantum computing because I believe it can change how we s
 
 
 ## 🌐 Socials:
-<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-](https://linkedin.com/in/neuralakarshit) </br>  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neuralakarshit) 
+
+<p align="center">
+  <a href="https://github.com/AkarshitSrivastava">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <span>&nbsp;&nbsp;</span> <!-- Add spacing -->
+  <a href="https://linkedin.com/in/neuralakarshit">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <br> <!-- Line break for better visibility -->
+  <a href="https://x.com/neuralakarshit">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <span>&nbsp;&nbsp;</span> <!-- Add spacing -->
+  <a href="https://medium.com/@neuralakarshit">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
+
 
 # 💻 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -24,8 +48,6 @@ And I'm curious about quantum computing because I believe it can change how we s
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neuralakarshit&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralakarshit&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neuralakarshit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
