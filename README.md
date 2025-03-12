@@ -51,7 +51,7 @@ And I'm curious about quantum computing because I believe it can change how we s
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 
 
 
