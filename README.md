@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%26+ML+Researcher;Building+Scalable+AI+Systems;Expertise+in+LLMs%2C+NLP+%26+Machine+Learning;Exploring+Quant+Finance+%26+Algo+Trading;Always+learning+new+things ;)&center=true&width=480&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%26+ML+Researcher;Building+Scalable+AI+Systems;Expertise+in+LLMs%2C+NLP+%26+Machine+Learning;Exploring+Quant+Finance+%26+Algo+Trading;Always+learning+new+things;)&center=true&width=480&height=45">
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
