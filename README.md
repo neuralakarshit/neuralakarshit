@@ -11,7 +11,7 @@
 
 
 
- Building AI and designing mathematical models that move markets !
+ Building AI and designing Mathematical models that move markets !
  <br>
 <br>
  <div align="center" width="50">
