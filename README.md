@@ -4,8 +4,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Quantitative+Finance |+AI+Engineer+%26+ML+Researcher;Building+Scalable+AI+Systems;Expertise+in+LLMs%2C+NLP+%26+Machine+Learning;Quantitative+Finance+%26+Algo+Trading;Always+learning+new+things!&center=true&width=480&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Quant+Researcher+%26+AI+Engineer;Building+Scalable+Quant+Models+%26+AI+Systems;Expertise+in+LLMs%2C+ML+%26+NLP;Financial+Markets%2C+Backtesting%2C+Alpha+Research;Always+Exploring+New+Ideas!&center=true&width=480&height=45">
 </p>
+
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
