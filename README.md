@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Quant+Researcher+%26+AI+Engineer;Building+Scalable+Quant+Models+%26+AI+Systems;Expertise+in+LLMs%2C+ML+%26+NLP;Financial+Markets%2C+Backtesting%2C+Alpha+Research;Always+Exploring+New+Ideas!&center=true&width=480&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Quant+Researcher+%26+AI+Engineer;Building+Scalable+Quant+Models+%26+AI+Systems;Expertise+in+LLMs%2C+ML+%26+NLP; Financial+Markets%2C+Backtesting%2C+Alpha+Research;Always+Exploring+New+Ideas!&center=true&width=480&height=45">
 </p>
 
 
