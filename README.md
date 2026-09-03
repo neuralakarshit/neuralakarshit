@@ -12,7 +12,7 @@
 
 
 
- <h2 align="center"> Building AI and designing Mathematical models that move markets ! </h2>
+ <h2 align="center"> Building AI and designing mathematical models that move markets ! </h2>
  <br>
 <br>
  <div align="center" width="50">
