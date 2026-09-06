@@ -12,7 +12,7 @@
 
 
 
- <h2 align="center"> I like to code, solve math problems, play video games, collect tattoos, and appreciate good abstract art. ! </h3>
+ <h2 align="center"> I like to code, solve math problems, play video games, collect tattoos, and appreciate good abstract art. </h5>
  <br>
 <br>
  <div align="center" width="50">
