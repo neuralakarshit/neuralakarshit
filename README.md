@@ -81,18 +81,6 @@
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-# 📈 GitHub Stats:
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=neuralakarshit&theme=white&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=neuralakarshit)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralakarshit&theme=white&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 
 
 ### ✍️ 
