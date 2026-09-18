@@ -73,10 +73,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://leetcode.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" alt="leetcode" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
-<a href="https://openai.com" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="100" height="100" style="margin:10px"/>
-</a>
+
 
 </p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -88,15 +85,6 @@
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&random=<random_number>)<br/>
 
-
-
-
-
-
-### 🔝 
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neuralakarshit&theme=react&bg_color=000000&hide_border=true" width="100%"/>
 
 
 
